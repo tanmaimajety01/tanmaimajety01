@@ -2,7 +2,7 @@
 
 🚀 Computer Science Student  
 💻 Interested in Backend Development, AI, and Security  
-🔐 Built projects in LLM Security & Real-time systems  
+🔐 Focused on LLM Security, Backend Systems & Real-time Applications 
 
 ---
 
@@ -15,8 +15,11 @@
 ---
 
 ## 📌 Projects
-- Prompt Injection Detector → ML-based system for detecting unsafe AI prompts  
-- Realtime Code Editor → Collaborative coding using sockets  
+- 🔐 Prompt Injection Detector  
+  → ML-based system to detect adversarial/unsafe AI prompts  
+
+- 💻 Realtime Code Editor  
+  → Multi-user collaborative editor using WebSockets   
 
 
 ---
