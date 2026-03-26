@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tanmai 👋
 
-<!--
-**tanmaimajety01/tanmaimajety01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Student  
+💻 Interested in Backend Development, AI, and Security  
+🔐 Built projects in LLM Security & Real-time systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: JavaScript, Python, C++
+- Web: Node.js, Express, React
+- Database: MongoDB, MySQL
+- Tools: Git
+
+---
+
+## 📌 Projects
+- Prompt Injection Detector → ML-based system for detecting unsafe AI prompts  
+- Realtime Code Editor → Collaborative coding using sockets  
+- (Add more as you build)
+
+---
+
+## 📈 What I’m Working On
+- Improving system design skills  
+- Learning advanced backend architecture  
+- Exploring AI security  
+
+---
+
+## 📫 Contact
+- LinkedIn: ([add your link](https://www.linkedin.com/in/keerthitanmai/))
+
+
