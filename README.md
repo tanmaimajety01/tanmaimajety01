@@ -29,6 +29,6 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: ([add your link](https://www.linkedin.com/in/keerthitanmai/))
+- LinkedIn: ([link](https://www.linkedin.com/in/keerthitanmai/))
 
 
