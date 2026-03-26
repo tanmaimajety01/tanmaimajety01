@@ -17,7 +17,7 @@
 ## 📌 Projects
 - Prompt Injection Detector → ML-based system for detecting unsafe AI prompts  
 - Realtime Code Editor → Collaborative coding using sockets  
-- (Add more as you build)
+
 
 ---
 
